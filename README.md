@@ -1,4 +1,4 @@
-# App Todo List
+# App To Do List
 
 Um projeto simples de To Do list, feito com HTML5, CSS3 e JavaScript.
 A simple project of To Do list was donw with HTML5, CSS3 and Javascript.
